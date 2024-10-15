@@ -1,0 +1,34 @@
+[
+    {
+        "menu_name":"salad",
+        "menu_img": "./frontend_assets/menu_1.png"
+    },
+     {
+        "menu_name":"katiRolls",
+        "menu_img":"./frontend_assets/menu_2.png"
+     },
+     {
+        "menu_name":"PanCake",
+        "menu_img":"./frontend_assets/menu_3png"
+     },
+     {
+        "menu_name":"Sandwich",
+        "menu_img":"./frontend_assets/menu_4.png"
+     },
+     {
+        "menu_name":"Cake",
+        "menu_img":"./frontend_assets/menu_5.png"
+     },
+     {
+        "menu_name":"Rajma Chawal",
+        "menu_img":"./frontend_assets/menu_6.png"
+     },
+     {
+        "menu_name":"Pasta",
+        "menu_img":"./frontend_assets/menu_7.png"
+     },
+     {
+        "menu_name":"Ramen",
+        "menu_img":"./frontend_assets/menu_8.png"
+     }
+]
